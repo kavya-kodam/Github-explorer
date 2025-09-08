@@ -2,7 +2,7 @@
   "name": "github-explorer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kavya-kodam.github.io/github-explorer",
+  "homepage": "https://kavya-kodam.github.io/Github-explorer",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
