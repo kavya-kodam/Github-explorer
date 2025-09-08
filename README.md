@@ -1,41 +1,19 @@
-📌 Github Explorer
+# 📝 Github-explorer (React)
 
 A simple React web application to explore GitHub repositories and view their details.
 
-🔗 Project Links
+## 🚀 Features
 
-Live Demo 👉 https://kavya-kodam.github.io/Github-explorer
+- 🔍 Search GitHub repositories by name
+- 📊 View repository details (stars ⭐, forks 🍴, language 💻)
+- 🌙 Clean and simple UI using Tailwind CSS
+- ⚛️ Component-based structure (React)
 
-Repository 👉 https://github.com/kavya-kodam/Github-explorer
+## 🛠️ Tech Stack
 
-🚀 Features
-
-🔍 Search GitHub repositories by name
-
-📊 View repository details (stars ⭐, forks 🍴, language 💻)
-
-🎨 Clean and responsive UI with Tailwind CSS
-
-🛠️ Tech Stack
-
-⚛️ React.js
-
-🎨 Tailwind CSS
-
-📈 Chart.js
-
-🔗 GitHub API
-
-⚡ Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/kavya-kodam/Github-explorer.git
-cd Github-explorer
-
-2️⃣ Install dependencies
-npm install
-
-3️⃣ Start development server
-npm start
+- **⚛️ React.js**
+- **🎨Tailwind CSS**
+- **📈 Chart.js**
 
 
-Open 👉 http://localhost:3000
+🔗 **Live Demo**: [Click here](https://kavya-kodam.github.io/Github-explorer/)

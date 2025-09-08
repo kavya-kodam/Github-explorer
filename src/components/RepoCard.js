@@ -39,7 +39,7 @@ function RepoCard({ repo, onClick }) {
         </span>
         <span className="flex items-center space-x-1">
           <span className="w-3 h-3 rounded-full bg-yellow-400 inline-block"></span>
-          <span>JavaScript</span>
+          <span> {repo.language || "Not specified"}</span>
         </span>
         <span className="ml-auto text-xs text-gray-400">{new Date(repo.updated_at).toLocaleDateString()}</span>
       </div>
